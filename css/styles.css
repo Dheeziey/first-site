@@ -1,0 +1,114 @@
+
+#title {
+  color: #fff
+}
+body{
+  font-family: Montserrat
+}
+
+.first{
+  background-color:#404258;
+  padding : 3% 8%;
+}
+h1 {
+  font-size: 3.5rem;
+}
+h2{
+  font-family: Montserrat-bold;
+  font-size: 3rem;
+  line-height: 3rem;
+}
+
+h5{
+  margin: 0
+}
+p{
+  margin: 0
+}
+.navbar-brand{
+font-size: 2rem;
+  }
+.nav-item{
+  padding: 15px;
+  font-family: Montserrat-light;
+}
+.navbar{
+  padding-bottom: 50px
+}
+#search{
+  font-family: Montserrat-light;
+}
+.navigation{
+  padding: 0
+}
+.title-image{
+  width: 80%;
+  border-radius: 40%;
+}
+
+#Services{
+  padding: 0;
+  text-align: center;
+}
+
+.carousel-div-size{
+  padding-top:5% ;
+  padding-bottom:5% ;
+  padding-left:2% ;
+  padding-right:3% ;
+}
+
+.music_man{
+  width:40%;
+  border-radius: 50%;
+  margin: 5%;
+}
+
+.picture_man{
+  width: 40%;
+  border-radius: 50%;
+  margin: 5%;
+}
+.video_man{
+  width: 40%;
+  border-radius: 50%;
+  margin: 5%;
+}
+.picture {
+  background-color: #61876E ;
+}
+.music{
+  background-color: #FFEBB7 ;
+}
+.video{
+  background-color: #91D8E4 ;
+}
+
+.caption{
+  padding: 5% 5% 5%;
+}
+
+#footer{
+  padding: 3% 8%;
+  text-align: center;
+  ;
+}
+.socials{
+padding-bottom: 3%;
+padding-top: 3%
+}
+.media-icon{
+  padding: 1%
+}
+
+@media screen and (max-width: 600px) {
+
+.title-div-text{
+  padding-bottom: 10%;
+  text-align: center;
+}
+.title-div-image{
+  margin-bottom: 10%;
+  text-align: center;
+}
+}
